@@ -5,10 +5,10 @@ Coursework for Neural Networks (SOW-BKI230A)
 
 **Part 1**
 
-[x] Assignment 1: Introduction
+- [x] Assignment 1: Introduction
 
-[x] Assignment 2: Perceptron
+- [x] Assignment 2: Perceptron
 
 **Part 2**
 
-[ ] Assignment 3: Optimization
+- [ ] Assignment 3: Optimization
