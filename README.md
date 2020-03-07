@@ -11,4 +11,10 @@ Coursework for Neural Networks (SOW-BKI230A)
 
 **Part 2**
 
-- [ ] Assignment 3: Optimization
+- [x] Assignment 3: Optimization
+
+**Part 3**
+
+- [ ] Assignment 4: Multi-layer Perceptron
+
+- [ ] Assignment 5: Autoencoders
