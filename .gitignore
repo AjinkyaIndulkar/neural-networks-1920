@@ -1,5 +1,9 @@
 
 .DS_Store
-P1 - Introduction and Perceptron/.ipynb_checkpoints/Chapter_02_perceptron-checkpoint.ipynb
-P1 - Introduction and Perceptron/.ipynb_checkpoints/Chapter_01_introduction-checkpoint.ipynb
-P2 - Optimization/.ipynb_checkpoints/Chapter_03_optimization-checkpoint.ipynb
+P1 - Introduction and Perceptron/.ipynb_checkpoints/*
+P2 - Optimization/.ipynb_checkpoints/*
+P3 - Multilayer Perceptron and Autoencoders/.ipynb_checkpoints/*
+P4 - Deep Learning/.ipynb_checkpoints/*
+P5 - Sequence Models/.ipynb_checkpoints/*
+P6 - Energy-Based Models/.ipynb_checkpoints/*
+P7 - Reinforcement Learning/.ipynb_checkpoints/*
