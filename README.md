@@ -15,6 +15,24 @@ Coursework for Neural Networks (SOW-BKI230A)
 
 **Part 3**
 
-- [ ] Assignment 4: Multi-layer Perceptron
+- [x] Assignment 4: Multi-layer Perceptron
 
-- [ ] Assignment 5: Autoencoders
+- [x] Assignment 5: Autoencoders
+
+**Part 4**
+
+- [ ] Assignment 6: Deep Learning
+
+**Part 5**
+
+- [ ] Assignment 7: Recurrent Networks
+
+**Part 6**
+
+- [ ] Assignment 8: Hopfield Networks
+
+- [ ] Assignment 9: Boltzmann Machines
+
+**Part 7**
+
+- [ ] Assignment 10: Reinforcement Learning
