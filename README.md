@@ -21,11 +21,11 @@ Coursework for Neural Networks (SOW-BKI230A)
 
 **Part 4**
 
-- [ ] Assignment 6: Deep Learning
+- [x] Assignment 6: Deep Learning
 
 **Part 5**
 
-- [ ] Assignment 7: Recurrent Networks
+- [x] Assignment 7: Recurrent Networks
 
 **Part 6**
 
