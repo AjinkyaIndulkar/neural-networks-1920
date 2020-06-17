@@ -38,10 +38,10 @@ Coursework for Neural Networks (SOW-BKI230A)
 - [x] Assignment 10: Reinforcement Learning
 
 ### Authors:
-Ajinkya Indulkar (@AjinkyaIndulkar)
+Ajinkya Indulkar [@AjinkyaIndulkar](https://github.com/AjinkyaIndulkar)
 
-Nienke Wessel (@NienkeWessel)
+Nienke Wessel [@NienkeWessel](https://github.com/NienkeWessel)
 
-Miriam Zegelaar (@miriamzegelaar)
+Miriam Zegelaar [@miriamzegelaar](https://github.com/miriamzegelaar)
 
-Roel van der Heijden (@RoelHeijden)
+Roel van der Heijden [@RoelHeijden](https://github.com/RoelHeijden)
