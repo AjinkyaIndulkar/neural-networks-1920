@@ -29,10 +29,19 @@ Coursework for Neural Networks (SOW-BKI230A)
 
 **Part 6**
 
-- [ ] Assignment 8: Hopfield Networks
+- [x] Assignment 8: Hopfield Networks
 
-- [ ] Assignment 9: Boltzmann Machines
+- [x] Assignment 9: Boltzmann Machines
 
 **Part 7**
 
-- [ ] Assignment 10: Reinforcement Learning
+- [x] Assignment 10: Reinforcement Learning
+
+### Authors:
+Ajinkya Indulkar (@AjinkyaIndulkar)
+
+Nienke Wessel (@NienkeWessel)
+
+Miriam Zegelaar (@miriamzegelaar)
+
+Roel van der Heijden (@RoelHeijden)
